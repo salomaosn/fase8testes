@@ -1,2 +1,11 @@
 image:
   file: .gitpod.dockerfile
+
+vscode:
+  extensions:
+    - vortizhe.simple-ruby-erb@0.2.1:BzpDuNAqJwUkxqT2t1YIuQ==
+    - Hridoy.rails-snippets@1.0.8:RFZBiddbEeItUesTv9F11w==
+    - castwide.ruby-debug@0.3.5:aUfPz6hreQXuO01QqjhpLQ==
+    - rebornix.ruby@0.26.0:RN+gv0dPjYfMqlcEEralhg==
+    - castwide.solargraph@0.21.1:kJz6aC6XZbI/EeYHUPNCmQ==
+    - PKief.material-icon-theme@3.9.3:GVmljEI1+vB8Qkqq/e1dfw==
